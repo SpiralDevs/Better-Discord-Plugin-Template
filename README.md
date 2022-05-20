@@ -1,0 +1,1 @@
+# Better-Discord-Plugin-Template
