@@ -61,3 +61,5 @@ const config = {
 	}
   ```
   </details>
+  
+  [Download Template](#)
